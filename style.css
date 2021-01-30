@@ -1,0 +1,527 @@
+.main .backgroundx{
+  background: url(website.jpg) no-repeat center center;
+  background-size: cover;
+  height: 550px;
+  text-align: center;
+  width: 100%;
+}
+
+.p1 p{
+  position: absolute;
+  top: 110%;
+  left: 5%;
+  color: white;
+}
+.p1 img{
+  position: absolute;
+  top: 110%;
+  right: 20%;
+}
+.p2 p{
+  position: absolute;
+  top: 160%;
+  right: 5%;
+  color: white;
+}
+.p2 .q1 img{
+  position: absolute;
+  top: 140%;
+  left: 10%;
+}
+.p2 .q2 img{
+  position: absolute;
+  top: 180%;
+  left: 10%;
+}
+.p3  img{
+  position: absolute;
+  top: 190%;
+  right: 10%;
+}
+.p3 p{
+  position: absolute;
+  top: 210%;
+  left: 5%;
+  color: white;
+}
+.p4 .A p {
+  color: white;
+  position: absolute;
+  top: 235%;
+  left: 20%;
+}
+.p4 .A a {
+  color: white;
+}
+.p4 .T a {
+  color: white;
+}
+.p4 .L a {
+  color: white;
+}
+.p4 .E a {
+  color: white;
+}
+.p4 .T p {
+  color: white;
+  position: absolute;
+  top: 240%;
+  left: 20%;
+}
+.p4 .L p {
+  color: white;
+  position: absolute;
+  top: 245%;
+  left: 20%;
+}
+.p4 .E p {
+  color: white;
+  position: absolute;
+  top: 250%;
+  left: 20%;
+}
+.main .backgroundx img{
+  position: absolute;
+  top: 6%;
+}
+.ghoc5 img{
+  position: absolute;
+  right: 5%;
+  top: 220%;
+}
+.backgroundx img{
+  position: absolute;
+  left: 0%;
+  top: 0%;
+}
+.contacting p{
+  position: absolute;
+  left: 33%;
+  top: 90%;
+  color: white;
+  text-align: center;
+}
+.contactingaz p{
+  position: absolute;
+  left: 30%;
+  top: 90%;
+  color: white;
+  text-align: center;
+}
+.img1 img{
+  position: absolute;
+  left: 5%;
+  top: 110%;
+}
+.img2 img{
+  position: absolute;
+  right: 5%;
+  top: 180%;
+}
+.textt1 p{
+  position: absolute;
+  text-align: center;
+  color: white;
+  left: 50%;
+  top: 140%;
+}
+.textt2 p{
+  position: absolute;
+  text-align: center;
+  color: white;
+  left: 15%;
+  top: 200%;
+}
+.vid video{
+  position: absolute;
+  left: 20%;
+  top: 230%;
+}
+.heading h1{
+  text-align: center;
+  color: white;
+  position: absolute;
+  left: 45%;
+  top: 90%;
+}
+.heading1 h2{
+    text-align: center;
+    color: white;
+    position: absolute;
+    left: 5%;
+    top: 125%;
+}
+.text1 p{
+  text-align: center;
+  color: white;
+  position: absolute;
+  left: 38%;
+  top: 100%;
+}
+.textl1 p{
+  text-align: justify;
+  color: white;
+  position: absolute;
+  right: 30%;
+  top: 135%;
+}
+.picl2 img{
+  position: absolute;
+  right: 10%;
+  top: 180%;
+}
+.quotes{
+  background: white;
+  height: 80px;
+  width: 98.9%;
+  position: absolute;
+  top: 557px;
+  text-align: center;
+}
+.quotes p{
+  text-align: center;
+  color: black;
+  font-style: italic;
+}
+.backgroundx h1{
+  position: relative;
+  padding: 270px 50px;
+  color: white;
+  font-size: 100px;
+  font-style: sans-serif;
+}
+.main .bg2{
+  width: 100%;
+  background: url(website2.jpg) no-repeat;
+  background-size: cover;
+  height: 1500px;
+}
+.bg2 a{
+  color: blue;
+}
+.quiz{
+  font-size: 30px;
+  color: white;
+  position: absolute;
+  text-align: center;
+  top: 135%;
+  left: 25%;
+}
+
+.bg2 .hoc h2{
+  position: absolute;
+  left: 15%;
+  top: 100%;
+  color: white;
+}
+.bg2 .hoc img{
+  position:absolute;
+  left: 25%;
+  top: 110%;
+}
+.bg2 button{
+  position: absolute;
+  left: 25%;
+  top: 150%;
+}
+.hoc p{
+  color: white;
+  position: absolute;
+  left: 25%;
+  top: 160%;
+}
+.hoc a{
+  color: white;
+}
+.website a{
+  color: white;
+}
+.lego a{
+  color: white;
+}
+.bg2 .website h2{
+  position: absolute;
+  left: 15%;
+  top: 170%;
+  color: white;
+}
+.bg2 .website img{
+  position:absolute;
+  left: 25%;
+  top: 180%;
+}
+.bg2 .website p{
+  color: white;
+  position: absolute;
+  left: 25%;
+  top: 223%;
+}
+.bg2 .lego h2{
+  position: absolute;
+  left: 15%;
+  top: 233%;
+  color: white;
+}
+.picl img{
+  position: absolute;
+  top: 135%;
+  left: 5%;
+}
+.bg2 .lego img{
+  position:absolute;
+  left: 25%;
+  top: 243%;
+}
+.bg2 .lego p{
+  color: white;
+  position:absolute;
+  left: 25%;
+  top: 285%;
+}
+.quiz2{
+  font-size: 30px;
+  color: white;
+  position: absolute;
+  top: 155%;
+  left: 45%;
+}
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  width: 300px;
+  padding: 15px 32px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  position: absolute;
+  top: 175%;
+  left: 45%;
+}
+.button2 {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  width: 300px;
+  padding: 15px 32px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  position: absolute;
+  top: 185%;
+  left: 45%;
+}
+.button3 {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  width: 300px;
+  padding: 15px 32px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  position: absolute;
+  top: 195%;
+  left: 45%;
+}
+.refer {
+  background: white;
+  height: 80px;
+  width: 100%;
+  position: absolute;
+  top: 0%;
+}
+.refer ul{
+  height: 80px;
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+}
+.refer ul li{
+  color: white;
+  display: inline-block;
+  height: 80px;
+  line-height: 80px;
+  list-style: none;
+  padding: 0 10px;
+  transition: background .5s;
+  text-align: center;
+}
+.refer ul li a {
+  color: black;
+  display: inline-block;
+  height: 80px;
+  line-height: 80px;
+  list-style: none;
+  padding: 0 10px;
+  transition: background .5s;
+  text-align: center;
+}
+.refer ul li a:hover {
+  background: #7EF9FF;
+  color: white;
+  cursor: pointer;
+  transition: background .5s;
+}
+
+.ending {
+  background: white;
+  height: 80px;
+  width: 100%;
+  text-align: right;
+}
+.ending p{
+  text-align: center;
+  position: absolute;
+  left: 45%;
+  top: 309%;
+  width: 200px;
+  color: black;
+}
+.ending ul{
+  height: 80px;
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+}
+.ending ul li{
+  color: white;
+  display: inline-block;
+  height: 80px;
+  line-height: 80px;
+  list-style: none;
+  padding: 0 10px;
+  transition: background .5s;
+}
+.ending ul li a{
+  color: black;
+  display: inline-block;
+  height: 80px;
+  line-height: 80px;
+  list-style: none;
+  padding: 0 10px;
+  transition: background .5s;
+}
+
+.ending ul li a:hover {
+  background: #7EF9FF;
+  color: white;
+  cursor: pointer;
+  transition: background .5s;
+}
+
+.animate-bottom {
+  position: relative;
+  -webkit-animation-name: animatebottom;
+  -webkit-animation-duration: 1s;
+  animation-name: animatebottom;
+  animation-duration: 1s;
+}
+.intro img{
+  position: absolute;
+  top: 110%;
+  right: 5%;
+}
+.intro p{
+  color: white;
+  position:absolute;
+  top: 110%;
+  left: 5%;
+}
+.extra img{
+  position: absolute;
+  top: 260%;
+  right: 5%;
+}
+.extra .link1 a{
+  text-align: left;
+  color: white;
+  position: absolute;
+  top: 290%;
+  left: 5%;
+}
+.extra .link2 a{
+  text-align: left;
+  color: white;
+  position: absolute;
+  top: 295%;
+  left: 5%;
+}
+.medium p{
+  color: white;
+  position: absolute;
+  top: 160%;
+  right: 5%;
+}
+.medium img{
+  position: absolute;
+  top: 150%;
+  left: 5%;
+}
+.final p{
+  color: white;
+  position: absolute;
+  top: 230%;
+  left: 5%;
+}
+.final img{
+  position: absolute;
+  top: 200%;
+  right: 5%;
+}
+.ghoc1 img{
+  position: absolute;
+  top: 125%;
+  left: 5%;
+}
+
+.ghoc2 img{
+  position: absolute;
+  top: 95%;
+  right: 5%;
+}
+.ghoc3 img{
+    position: absolute;
+    top: 160%;
+    right: 5%;
+}
+.ghoc4 img{
+
+      position: absolute;
+      top: 200%;
+      left: 5%;
+}
+#loader {
+  position: absolute;
+  -webkit-animation: spin 2s linear infinite;
+}
+#loader p{
+position: fixed;
+font-size: 36px;
+left : 40%;
+top: 35%;
+}
+
+#myDiv{
+    display: none;
+    text-align: center;
+  }
+
+@-webkit-keyframes animatebottom {
+  from { bottom:-100px; opacity:0 }
+  to { bottom:0px; opacity:1 }
+}
+
+@keyframes animatebottom {
+  from{ bottom:-100px; opacity:0 }
+  to{ bottom:0; opacity:1 }
